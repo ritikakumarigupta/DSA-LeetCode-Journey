@@ -1,5 +1,5 @@
 # DSA-LeetCode-Journey
-*Started:* 28-Sep-2026 | *Background:* CA → SDE | *Goal:* Mar 2027
+*Started:* 25-june-2026 | *Background:* CA → SDE | *Goal:* Mar 2027
 
 ## Stats
 *Total Solved:* 7 | *Streak:* 4 Days 🔥 | *Last Updated:* 02-Oct-2026
@@ -17,7 +17,7 @@
 - 0191 Number of 1 Bits - 0ms Beat 100%
 
 ## Next Target
-- [ ] 10 Questions by 05-Oct-2026
+- [ ] 10 Questions by 05-july-2026
 - [ ] 50 Questions by 30-Oct-2026
 - [ ] FAANG Ready by 31-Mar-2027
 
